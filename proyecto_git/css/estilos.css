@@ -4,7 +4,25 @@ body
     text-align: center;
     font-family: "arial";
     font-size: medium;
+    margin: 0;
+    padding: 0%;
 }
+#cabecera
+{
+    background: #33a;
+    box-shadow: 16px;
+    color: #fff;
+    font-weight: 700;
+    margin: 0;
+    padding: 5em;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: 400;
+    font-size: medium;
+}
+
 #container
 {
     width: 70%;
@@ -18,3 +36,7 @@ body
 {
     font-size: medium;
 }
+#post
+{
+    padding: 1em;
+}    
