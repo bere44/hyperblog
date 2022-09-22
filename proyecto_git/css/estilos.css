@@ -1,6 +1,6 @@
 body
 {
-    color:rgb(43, 226, 119);
+    color:rgb(106, 5, 99);
     text-align: center;
     font-family: "courier";
     font-size: medium;
@@ -9,12 +9,12 @@ body
 }
 #cabecera
 {
-    background: #33a;
+    background: url("../imagenes/header1.jpg");
     box-shadow: 16px;
-    color: #fff;
+    color: rgb(23, 2, 20);
     font-weight: 700;
     margin: 0;
-    padding: 5em;
+    padding: 0.5em 0 0.5em 2em;
 }
 #cabecera #tagline
 {
